@@ -60,7 +60,6 @@ public class GitDemo {
 public class GitDemo {
     
     private double previousNumber;
-
     private double reverseNum;
 
 

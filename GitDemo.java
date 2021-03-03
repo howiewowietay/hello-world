@@ -44,7 +44,7 @@ public class GitDemo {
     public double findFactorial(int num) {
         double factorialNumber = 0;
         
- branch-2
+
         while( num != 0 ) {
             double temp = num % 10;
             factorialNumber = factorialNumber * 10 + temp;
@@ -54,7 +54,7 @@ public class GitDemo {
         
         for(int i = 1; i <= num; ++i){
             newNumber = newNumber * i;
- main
+
         }
         
         return factorialNumber;
